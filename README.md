@@ -1,2 +1,2 @@
-# product_pop-up.github.io
-Created Pop-up using CSS/HTML
+# Product-Pop-up
+I created product pop-up cards using simple HTML &amp; CSS
